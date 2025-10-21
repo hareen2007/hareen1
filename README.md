@@ -1,3 +1,4 @@
 # hareen1
-This is my first git repository.
+<h6>This is my first git repository.</h6>
+<br>
 I am learning git.
